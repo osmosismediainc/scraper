@@ -1,0 +1,24 @@
+* {
+    font-family: niveau-grotesk, sans-serif;
+font-weight: 400;
+font-style: normal;
+}
+.article-title {
+    font-family: niveau-grotesk-small-caps, sans-serif;
+    font-weight: 700;
+    font-style: normal;}
+.article-panel-group {
+    padding: 5px;
+}    
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+
+      
